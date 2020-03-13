@@ -54,7 +54,7 @@
 
 # In[1]:
 
-
+# 1
 ## import all necessary packages and functions.
 import csv # read and write csv files
 from datetime import datetime # operations to parse dates
